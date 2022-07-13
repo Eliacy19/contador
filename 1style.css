@@ -1,0 +1,8 @@
+body {
+    color: gray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: aquamarine;
+}
+#contador{
+    color: rgb(148, 206, 13);
+}
